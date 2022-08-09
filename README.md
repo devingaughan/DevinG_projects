@@ -1,2 +1,2 @@
 # DevinG_projects
-things
+A Place where I store my projects.
